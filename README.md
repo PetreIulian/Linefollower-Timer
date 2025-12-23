@@ -8,10 +8,11 @@
    5**Arduino Nano v3**
 
 ### Functionality
-   The timer has 3 state: IDLE, RUNNING and STOPPED:
-     1.**IDLE** the system is waiting to detect the robot.
+  The timer has 3 state: IDLE, RUNNING and STOPPED:
+  
+  1.**IDLE** the system is waiting to detect the robot.
      
-     2.**RUNNING** after the robot is detected the timer start to count; the elapsed time is showed on the display.
+  2.**RUNNING** after the robot is detected the timer start to count; the elapsed time is showed on the display.
      
-     3**STOPPED** after the second detection of the robot, the timer is stopped and the total time is displayed on the display.
+  3**STOPPED** after the second detection of the robot, the timer is stopped and the total time is displayed on the display.
    

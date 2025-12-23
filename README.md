@@ -2,9 +2,13 @@
   
 ## Components
    1.**Ultrasonic Sensor**
+   
    2.**LCD Display**
+   
    3.**I2C Adapter for Display**
+   
    4.**Button**
+   
    5**Arduino Nano v3**
 
 ### Functionality

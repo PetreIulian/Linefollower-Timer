@@ -9,7 +9,7 @@
    
    4.**Button**
    
-   5**Arduino Nano v3**
+   5.**Arduino Nano v3**
 
 ### Functionality
   The timer has 3 state: IDLE, RUNNING and STOPPED:

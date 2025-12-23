@@ -14,5 +14,5 @@
      
   2.**RUNNING** after the robot is detected the timer start to count; the elapsed time is showed on the display.
      
-  3**STOPPED** after the second detection of the robot, the timer is stopped and the total time is displayed on the display.
+  3.**STOPPED** after the second detection of the robot, the timer is stopped and the total time is displayed on the display.
    
